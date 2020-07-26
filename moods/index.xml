@@ -6,10 +6,19 @@
     <description>Recent content in Moods on Kaalikutty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2020 10:45:52 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2020 20:17:56 +0530</lastBuildDate>
     
 	<atom:link href="/moods/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>happy</title>
+      <link>/moods/happy/</link>
+      <pubDate>Sun, 26 Jul 2020 20:17:56 +0530</pubDate>
+      
+      <guid>/moods/happy/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>mixed</title>
@@ -26,15 +35,6 @@
       <pubDate>Sun, 26 Jul 2020 10:45:52 +0530</pubDate>
       
       <guid>/moods/sad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>happy</title>
-      <link>/moods/happy/</link>
-      <pubDate>Sun, 26 Jul 2020 10:37:34 +0530</pubDate>
-      
-      <guid>/moods/happy/</guid>
       <description></description>
     </item>
     

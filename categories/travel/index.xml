@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>travel on Kaalikutty</title>
+    <link>/categories/travel/</link>
+    <description>Recent content in travel on Kaalikutty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 Jul 2020 20:17:56 +0530</lastBuildDate>
+    
+	<atom:link href="/categories/travel/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My first weekend in Lima (Peru)</title>
+      <link>/posts/peru-travel-1/</link>
+      <pubDate>Sun, 26 Jul 2020 20:17:56 +0530</pubDate>
+      
+      <guid>/posts/peru-travel-1/</guid>
+      <description>Lima, the capital of Peru. When I first told my Mom about my onsite travel plan to Peru, she was frightened. For her, its a country where people get kidnapped, robbed, murdered and I know its no one but my brother scared her. First foreign trip, it was a dream from childhood to explore many places. But of course, being a woman, the world has a lot of restrictions defined. Finally, the day came Oct 13 -2018 and I flew to Lima.</description>
+    </item>
+    
+  </channel>
+</rss>
