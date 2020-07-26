@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kaalikutty</title>
-    <link>http://localhost:9010/tags/</link>
+    <link>https://bnair.in/tags/</link>
     <description>Recent content in Tags on Kaalikutty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 26 Jul 2020 10:45:52 +0530</lastBuildDate>
     
-	<atom:link href="http://localhost:9010/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bnair.in/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>poem</title>
-      <link>http://localhost:9010/tags/poem/</link>
+      <link>https://bnair.in/tags/poem/</link>
       <pubDate>Sun, 26 Jul 2020 10:45:52 +0530</pubDate>
       
-      <guid>http://localhost:9010/tags/poem/</guid>
+      <guid>https://bnair.in/tags/poem/</guid>
       <description></description>
     </item>
     
     <item>
       <title>review</title>
-      <link>http://localhost:9010/tags/review/</link>
+      <link>https://bnair.in/tags/review/</link>
       <pubDate>Sun, 26 Jul 2020 10:37:34 +0530</pubDate>
       
-      <guid>http://localhost:9010/tags/review/</guid>
+      <guid>https://bnair.in/tags/review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>@me</title>
-      <link>http://localhost:9010/tags/me/</link>
+      <link>https://bnair.in/tags/me/</link>
       <pubDate>Sat, 25 Jul 2020 11:53:19 +0530</pubDate>
       
-      <guid>http://localhost:9010/tags/me/</guid>
+      <guid>https://bnair.in/tags/me/</guid>
       <description></description>
     </item>
     
