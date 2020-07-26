@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moods on Kaalikutty</title>
-    <link>https://bnair.in/moods/</link>
+    <link>/moods/</link>
     <description>Recent content in Moods on Kaalikutty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 26 Jul 2020 10:45:52 +0530</lastBuildDate>
     
-	<atom:link href="https://bnair.in/moods/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/moods/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>mixed</title>
-      <link>https://bnair.in/moods/mixed/</link>
+      <link>/moods/mixed/</link>
       <pubDate>Sun, 26 Jul 2020 10:45:52 +0530</pubDate>
       
-      <guid>https://bnair.in/moods/mixed/</guid>
+      <guid>/moods/mixed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sad</title>
-      <link>https://bnair.in/moods/sad/</link>
+      <link>/moods/sad/</link>
       <pubDate>Sun, 26 Jul 2020 10:45:52 +0530</pubDate>
       
-      <guid>https://bnair.in/moods/sad/</guid>
+      <guid>/moods/sad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>happy</title>
-      <link>https://bnair.in/moods/happy/</link>
+      <link>/moods/happy/</link>
       <pubDate>Sun, 26 Jul 2020 10:37:34 +0530</pubDate>
       
-      <guid>https://bnair.in/moods/happy/</guid>
+      <guid>/moods/happy/</guid>
       <description></description>
     </item>
     

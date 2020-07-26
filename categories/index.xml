@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kaalikutty</title>
-    <link>https://bnair.in/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Kaalikutty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 26 Jul 2020 10:45:52 +0530</lastBuildDate>
     
-	<atom:link href="https://bnair.in/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>convid</title>
-      <link>https://bnair.in/categories/convid/</link>
+      <link>/categories/convid/</link>
       <pubDate>Sun, 26 Jul 2020 10:45:52 +0530</pubDate>
       
-      <guid>https://bnair.in/categories/convid/</guid>
+      <guid>/categories/convid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>fiction</title>
-      <link>https://bnair.in/categories/fiction/</link>
+      <link>/categories/fiction/</link>
       <pubDate>Sun, 26 Jul 2020 10:37:34 +0530</pubDate>
       
-      <guid>https://bnair.in/categories/fiction/</guid>
+      <guid>/categories/fiction/</guid>
       <description></description>
     </item>
     
