@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fiction on Kaalikutty</title>
+    <link>http://localhost:9010/categories/fiction/</link>
+    <description>Recent content in fiction on Kaalikutty</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 26 Jul 2020 10:37:34 +0530</lastBuildDate>
+    
+	<atom:link href="http://localhost:9010/categories/fiction/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What Lead Me to You the Silent Patient</title>
+      <link>http://localhost:9010/posts/silentpatientpart-1/</link>
+      <pubDate>Sun, 26 Jul 2020 10:37:34 +0530</pubDate>
+      
+      <guid>http://localhost:9010/posts/silentpatientpart-1/</guid>
+      <description>Started my reading taste with Novoneel Chakraborty&amp;rsquo;s &amp;lsquo;&amp;lsquo;The Stranger Trilogy&amp;rdquo;.
+There were days which I have taken off from my work and spend those days to finish the book series. Addicted! Heartbroken! Excited!Thrilled! &amp;hellip;. a lot of mixed feelings. It took many weeks to recover from the hangover of reading such a long series. Lots of work to do, lots of things to do at home, eventually I stopped reading other books of interest.</description>
+    </item>
+    
+    <item>
+      <title>Why Alcestis choose not to speak when she was back alive?</title>
+      <link>http://localhost:9010/posts/silentpatientpart-2/</link>
+      <pubDate>Sun, 26 Jul 2020 10:37:34 +0530</pubDate>
+      
+      <guid>http://localhost:9010/posts/silentpatientpart-2/</guid>
+      <description>I didn&amp;rsquo;t have any idea even after reading about Alcestis. What could be the reason when a woman decided to be silent? Many !.Because a woman is a mystery. She remains silent for many reasons. She might be destroyed inside or she might be waiting to explode or she might be&amp;hellip;..who can explain. Nobody!
+She surrenders her life to her husband. She was an ideal of how women love her husband.</description>
+    </item>
+    
+  </channel>
+</rss>

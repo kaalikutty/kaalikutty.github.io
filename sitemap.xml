@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://localhost:9010/categories/</loc>
+    <lastmod>2020-07-26T10:45:52+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:9010/categories/convid/</loc>
+    <lastmod>2020-07-26T10:45:52+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:9010/posts/covid-19/</loc>
+    <lastmod>2020-07-26T10:45:52+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:9010/</loc>
+    <lastmod>2020-07-26T10:45:52+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:9010/moods/mixed/</loc>
+    <lastmod>2020-07-26T10:45:52+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:9010/moods/</loc>
+    <lastmod>2020-07-26T10:45:52+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:9010/tags/poem/</loc>
+    <lastmod>2020-07-26T10:45:52+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:9010/moods/sad/</loc>
+    <lastmod>2020-07-26T10:45:52+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:9010/tags/</loc>
+    <lastmod>2020-07-26T10:45:52+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:9010/categories/fiction/</loc>
+    <lastmod>2020-07-26T10:37:34+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:9010/moods/happy/</loc>
+    <lastmod>2020-07-26T10:37:34+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:9010/tags/review/</loc>
+    <lastmod>2020-07-26T10:37:34+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:9010/posts/silentpatientpart-1/</loc>
+    <lastmod>2020-07-26T10:37:34+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:9010/posts/silentpatientpart-2/</loc>
+    <lastmod>2020-07-26T10:37:34+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:9010/posts/</loc>
+    <lastmod>2020-07-25T12:05:27+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:9010/about/</loc>
+    <lastmod>2020-07-25T11:53:19+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:9010/tags/me/</loc>
+    <lastmod>2020-07-25T11:53:19+05:30</lastmod>
+  </url>
+  
+</urlset>
