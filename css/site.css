@@ -17,5 +17,9 @@ body{background-attachment:fixed;background-position:center;background-size:cove
 
 html, body article {
     font-family: Georgia !important;
-    font-size: large;
+    font-size: medium;
+}
+
+html, body ul li {
+    list-style: none;
 }
